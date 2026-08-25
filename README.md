@@ -190,11 +190,12 @@ The dashboard is organized into four major sections.
 
 ### Review-Level Insights
 
+<img src="assets/dashboard-review-insights.png" alt="Review-Level Insights" width="100%">
+
 * Most Helpful Negative Reviews
 * Most Helpful Positive Reviews
 * Key Decision-Oriented Insights
 
-<img src="assets/dashboard-review-insights.png" alt="Review-Level Insights" width="100%">
 
 ---
 
